@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/XForge.Scheduling/XForge.Scheduling.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/XForge.Scheduling.Tests/XForge.Scheduling.Tests.csproj" />
+  </Folder>
+</Solution>

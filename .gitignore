@@ -1,0 +1,11 @@
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.nupkg
+*.snupkg
+artifacts/
+coverage/
+TestResults/
+BenchmarkDotNet.Artifacts/
